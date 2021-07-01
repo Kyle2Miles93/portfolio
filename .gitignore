@@ -1,6 +1,5 @@
 // ignoring other templates and config file
-_config.yml
 .DS_Store
-templates.zip
+
 
 
